@@ -1,11 +1,11 @@
 # Data-Visualization--Caixa-Bank---Fraud-Analytics-Power-BI
 Fraud Detection &amp; Analytics with Python, SQL, Machine Learning, and Power BI End-to-end project on analyzing financial transaction datasets to detect fraud patterns, develop supervised ML models, and design interactive Power BI dashboards for real-time fraud monitoring.
-# CaixaBank Fraud Detection & Analytics 🚨
+# CaixaBank Fraud Detection & Analytics 
 
 ## 📌 Project Overview
 This project focuses on analyzing publicly available bank transaction datasets to **detect fraud**, **identify high-risk customer profiles**, and **recommend fraud prevention strategies**. 
-# Fraud Detection & Analytics 🚨
 
+# Fraud Detection & Analytics 
 This project is my deep dive into **bank transaction fraud detection**.  
 I wanted to build something end-to-end — from cleaning messy datasets to building ML models, and finally creating dashboards that a business team could actually use.
 
@@ -39,6 +39,3 @@ This project isn’t just about crunching numbers. The dashboards and models can
 - **Retail:** Track suspicious purchase trends  
 - **Business Strategy:** Summarize KPIs and guide decisions  
 
----
-
-## 📂 Repo Structure
